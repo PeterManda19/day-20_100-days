@@ -1,7 +1,7 @@
 print("Welcome to the List Generator.")
 print()
 
-print("I will display a list of numbers based on the your answers.")
+print("I will display a list of numbers based on your answers.")
 print()
 
 print("Everytime you key in your response press enter.")
